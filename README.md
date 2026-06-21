@@ -43,11 +43,14 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 This project demonstrates how machine learning can assist in evaluating loan applications by analyzing applicant information and predicting approval outcomes.
 
 ## 📁 Project Structure
+
+```text
 CreditWise-Loan-Approval/
 │
 ├── data/
-├── notebooks/
 ├── images/
 ├── README.md
 ├── requirements.txt
-└── creditwise_loan_approval.ipynb
+├── creditwise_loan_approval.ipynb
+└── loan_data.csv
+```
