@@ -1,4 +1,4 @@
-<h1 align="center">💰 Loan Approval Prediction</h1>
+<h1 align="center">💳 CreditWise Loan Approval</h1>
 
 This project predicts whether a loan application should be approved based on applicant information.</br>
 # 📊 Dataset Information.<br>
@@ -25,6 +25,7 @@ Target Variable: Loan Approval Status
 
 # 🤖 Models Used
 - Logistic Regression
+- Knn (K nearest neighbour)
 
 # 📈 Evaluation Metrics
 - Accuracy Score
@@ -38,3 +39,16 @@ Target Variable: Loan Approval Status
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
+🎯 Project Outcome
+
+This project demonstrates how machine learning can assist in evaluating loan applications by analyzing applicant information and predicting approval outcomes.
+
+📁 Project Structure
+CreditWise-Loan-Approval/
+│
+├── data/
+├── notebooks/
+├── images/
+├── README.md
+├── requirements.txt
+└── creditwise_loan_approval.ipynb
