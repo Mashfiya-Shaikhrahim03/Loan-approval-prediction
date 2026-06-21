@@ -9,7 +9,8 @@ The dataset includes features such as:
 - Applicant Income
 - Loan Amount
 - Credit History
-- Property Area
+- Property Area<br>
+
 Target Variable: Loan Approval Status
 
 # 🔍 Project Workflow
