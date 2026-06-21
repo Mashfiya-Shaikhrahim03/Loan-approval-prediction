@@ -38,12 +38,11 @@ Target Variable: Loan Approval Status
 # 🛠️ Technologies Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-
-🎯 Project Outcome
+# 🎯 Project Outcome
 
 This project demonstrates how machine learning can assist in evaluating loan applications by analyzing applicant information and predicting approval outcomes.
 
-📁 Project Structure
+## 📁 Project Structure
 CreditWise-Loan-Approval/
 │
 ├── data/
